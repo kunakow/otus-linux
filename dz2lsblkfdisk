@@ -5,7 +5,7 @@
 [vagrant@otuslinux ~]$ lsblk
 NAME   MAJ:MIN RM SIZE RO TYPE MOUNTPOINT
 sdb      8:0    0  40G  0 disk 
-sdb      8:16   0  40G  0 disk 
+sda      8:16   0  40G  0 disk 
 `-sda1   8:17   0  40G  0 part 
 [vagrant@otuslinux ~]$ 
 
